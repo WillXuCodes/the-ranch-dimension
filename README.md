@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi I'm Will, welcome to my dev blog! Here's a few (public) projects I was a part of
+Hi I'm Will, welcome to my dev blog! Here's a few (public) projects I was a part of:
 
 * [PROS](https://pros.cs.purdue.edu/)
 * [BLRS (SIGBots) Wiki](https://wiki.purduesigbots.com/)
