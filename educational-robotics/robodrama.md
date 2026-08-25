@@ -29,6 +29,10 @@ I've seen quite a few things in my time as both a mentor, project developer, and
    2. Disagreement on who gets to be the driver leads to either tryouts or even worse, team members splitting matches and having everyone drive.
    3. Performance is subpar at competition since some if not all drivers don't have much drive practice experience nor time to do work.
 
+Who could've forseen student centered and lead robotics teams leading to "_Lord of the Flies_" style situations (_obvious sarcasm)?_
+
+Personally, being involved with ed-robotics for almost a decade now has made me pretty numb to these situations. Just another day in the office, and another team imploding over your average high school drama mixed with technical challenges and engineering deadlines.
+
 #### Theater Students with STEM Interests
 
 Traditionally, "theater kids" tend to be get a bad rap for being the quirky, outspoken, and generally dramatic kids.
