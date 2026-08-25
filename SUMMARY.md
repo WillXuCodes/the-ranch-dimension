@@ -16,7 +16,7 @@
 ## The Sauce
 
 * [AI - The Automation of Brain Rot](the-sauce/ai-the-automation-of-brain-rot.md)
-* [The Art of Drawing Something Bad Good](the-sauce/the-art-of-drawing-something-bad-good.md)
+* [Quality or Cringe](the-sauce/quality-or-cringe.md)
 
 ## Educational Robotics
 

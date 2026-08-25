@@ -64,7 +64,7 @@ My take is yes, but it would take quite a bit of work to get working.
 
 A "LOLCow" is a (somewhat dated) internet term, is best defined from [urban dictionary](https://www.urbandictionary.com/define.php?term=Lolcow) as:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 I assert that if there's a way to make an artificial "lolcow" team or individual exhibiting toxic traits in a believable but funny way, this would generally curve the sort of behavior that we see. Best if the entire thing is played straight as a real situation.
 
