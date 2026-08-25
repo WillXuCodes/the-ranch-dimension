@@ -61,7 +61,7 @@ With this possibility in mind, another dimension and considerable thought needs 
 
 After all... if low-context introductory tasking can be finished by AI all the time, why hire new grads? Why not just have multi-agentic AI chains automatically finish grunt work that can be done by senior developers kicking off AI chains?&#x20;
 
-[Why not offload the process of defining a robot to a "universal LLM defined language" that removes any semblance of challenge of actually programming robots?](https://github.com/purduesigbots/pros/issues/789)&#x20;
+[Why not offload the process of defining a robot to a "universal LLM defined language" that removes any semblance of challenge of actually programming robots in an educational program?](https://github.com/purduesigbots/pros/issues/789)&#x20;
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
