@@ -1,5 +1,15 @@
 # Welcome!
 
+### Recent Articles
+
+* [AI - The Automation of Brain Rot](the-sauce/ai-the-automation-of-brain-rot.md) — August 25, 2026
+* [Quality or Cringe](the-sauce/quality-or-cringe.md) — August 25, 2026
+* [Robodrama](the-sauce/robodrama.md) — August 25, 2026
+
+
+
+### Intro
+
 Hi I'm Will, welcome to my dev blog! Here's a few (public) projects I was a part of:
 
 * [PROS](https://pros.cs.purdue.edu/)
@@ -14,4 +24,3 @@ My bread and butter is in software development, specifically embedded safety cri
 <figure><img src=".gitbook/assets/ranch-pfp.jpg" alt=""><figcaption></figcaption></figure>
 
 As with any dev or personal blog, none of the thoughts I have here are filtered too much, nor do I claim to be a subject matter expert in any field. None of what I say on here represents any of my employers or organizations I've been affiliated, future, past or present.
-
