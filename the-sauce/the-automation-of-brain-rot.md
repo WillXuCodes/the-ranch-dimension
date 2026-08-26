@@ -2,9 +2,9 @@
 description: Claude, summarize this article for me?
 ---
 
-# AI - The Automation of Brain Rot
+# The Automation of Brain Rot
 
-As the biggest topic in tech right now, AI and it's capability is one of the things everybody is exploring right now. Frustratingly, there's been a lot of blind trust put into AI systems and agentic workflows in the software engineering world. The Dunning-Kruger effect is now reinforced by "claudisms" reassuring devs who don't know how to debug with hallucinated "smoking guns", as well as pointing out scaffolding as "load bearing" code.
+As the biggest topic in tech right now, AI and it's capability is one of the things everybody is exploring right now. Frustratingly, there's been a lot of blind trust put into AI systems and agentic workflows in the software engineering world. The Dunning-Kruger effect is now reinforced by "claudisms" reassuring developers who don't know how to debug with hallucinated "smoking guns", as well as pointing out scaffolding as "load bearing" code.
 
 I've even heard someone compare using Claude as essential to programming as using an IDE pre-AI... while I want to believe this is a bad faith argument the implication here is that if a developer _isn't_ using AI to program, their methods are considered out of date.
 

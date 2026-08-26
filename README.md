@@ -2,7 +2,7 @@
 
 ### Recent Articles
 
-* [AI - The Automation of Brain Rot](the-sauce/ai-the-automation-of-brain-rot.md) — August 25, 2026
+* [AI - The Automation of Brain Rot](the-sauce/the-automation-of-brain-rot.md) — August 25, 2026
 * [Quality or Cringe](the-sauce/quality-or-cringe.md) — August 25, 2026
 * [Robodrama](the-sauce/robodrama.md) — August 25, 2026
 

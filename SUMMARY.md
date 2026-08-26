@@ -15,6 +15,6 @@
 
 ## The Sauce
 
-* [AI - The Automation of Brain Rot](the-sauce/ai-the-automation-of-brain-rot.md)
+* [The Automation of Brain Rot](the-sauce/the-automation-of-brain-rot.md)
 * [Quality or Cringe](the-sauce/quality-or-cringe.md)
 * [Robodrama](the-sauce/robodrama.md)
