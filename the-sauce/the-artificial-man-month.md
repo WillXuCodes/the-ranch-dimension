@@ -167,7 +167,7 @@ Adding manpower to a late software project makes it later.
 I'd like to assert that:
 
 ```
-Adding artificial manpower to a badly planned software makes it even worse.
+Adding artificial manpower to a late software project doesn't make development too much faster.
 ```
 
 Brook's law still stands even with artificial man months.
