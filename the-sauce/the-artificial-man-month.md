@@ -16,8 +16,6 @@ When the time came, we had around 30 students show up to our project's first tra
 
 ### Artificial Men
 
-_Monkeys with typewriters will eventually write Shakespeare. Junior developers with keyboards will eventually write working code._
-
 Despite being a treasure trove of many interesting software engineering (and also a snapshot of a different era of a fledgling software development field), systems design, and project management ideas, the main concept the ["Mythical Man Month" by Frederick P. Brooks Jr](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf) is cited for is the idea software development can be treated like a production line. Its central thesis states that adding more and more people speeds up software development as communication overhead, training and getting new developers up to speed, and management overhead in trying to coordinate large groups slows short development in the short term.&#x20;
 
 More concisely put:
@@ -108,6 +106,14 @@ user.
 ```
 
 This then re-emphasizes the importance and almost unpredictable nature of testing, as new features integrated and old bugs fixed require another round of validation to make sure regression isn't occurring. If regressions and bugs are found while testing, this will lead to more debugging which something AI doesn't speed up by a substantial amount. This further reinforces the idea that simply throwing AI at a software program behind schedule doesn't speed up.
+
+So what is the mitigation? Sure it's easy to say that software architecture should be nailed down from the start, but reality is more nuanced than that. My general philosophy is that:<br>
+
+1. Try to design good software architecture from the start.
+2. If you can't, make architecture decisions that are "tree shakable" and can be backed out later.
+3. For 1 and 2, development under pressure makes large changes hard. Gradual replacement or slow integration of a larger change or architecture is preferrable in these cases to prevent regressions or breaking features.
+
+As with most effective AI usage, these tenets also apply to hand maintained code as well. No AI will understand potential customer needs and the scalability programs better than the developer unless they spend an enormous amount of time loading and maintaining context for AI models to ingest, burning money in the form of tokens and time in the form of having AI process and human hands maintain such context.
 
 ### Escaping the Open Source Tarpit
 
