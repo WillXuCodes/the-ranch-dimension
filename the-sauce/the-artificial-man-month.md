@@ -141,7 +141,7 @@ Even if AI would've onboarded those junior developers a lot quicker, debugging s
 
 ### Conclusion
 
-Generally speaking the expectations of what AI can do for software development schedules is incredibly high. However, we must curb our expectations given the fact that while AI makes certain aspects of software development easier, the most unpredictable portions of test and debugging aren't substantially improved with the introduction of AI. **The main causes of schedule slippage are still at large.**
+Generally speaking the expectations of what AI can do for software development schedules is incredibly high. However, we must curb our expectations given the fact that while AI makes certain aspects of software development easier, the most unpredictable portions of test and debugging aren't substantially improved with the introduction of AI. **The main causes of schedule slippage are still at large.** The "1/6th" in Brook's model for predicting software schedules might be reduced greatly, but everything else stays almost the same but are marginally improved.
 
 ```
 The tar pit of software engineering will continue to be sticky for
