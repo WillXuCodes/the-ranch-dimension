@@ -156,7 +156,7 @@ and a God-given humility to recognize our fallibility and limitations.
 - Mythical Man Month - Epilogue, Page 177
 ```
 
-While the dream of software development is to write as little code as possible while fulfilling all requirements, the "death" of the software engineering field is an asymptote only leads to what some are terming "cyberpsychosis". Debugging, software architecture, and requirements scoping are still very human processes that are enhanced but not fully replaced by AI.
+While the dream of software development is to write as little code as possible while fulfilling all requirements, the "death" of the software engineering field is an asymptote which only leads to what some are terming "cyberpsychosis". Debugging, software architecture, and requirements scoping are still very human processes that are enhanced but not fully replaced by AI.
 
 While Brook's law states:&#x20;
 
