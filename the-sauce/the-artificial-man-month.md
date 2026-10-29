@@ -63,20 +63,20 @@ On the other hand, ineffective AI use can slow down code development by:
 * Terrible software architecture at the expense of getting things working quicker (woe 3).
 * Overdependence on AI debugging, leading to hallucinating and prolonging debugging cycles (woes 4 and 5).
 
-Let's dig deep into these effects of AI on software development, and how they might slow things down and how to mitigate them.
+Let's dig deep into these effects of AI on software development, how they might slow things down, and mitigation techniques.
 
 ### Guess and Check
 
 Any competent developer understands that debugging methodology in any software environment boils down to isolating the root cause by reducing the search area. However, most (vanilla) AI models don't debug this way and instead rely on "guess and check", or asserting a hypothesis and verifying if the fix worked or having a developer manually test. In the latter case where a developer has to manually test (which is quite common in computer engineering or embedded development) this slows down development quite a bit as every missed guess is more time spent waiting for AI to finish and manually testing.&#x20;
 
-So what is the (prescriptively) "correct" way to use AI when debugging? It mainly boils down to:
+So what is the "correct" way to use AI when debugging? It mainly boils down to:
 
 1. Generating otherwise tedious debugging code to aid in finding bugs as part of the isolation process.
 2. Proactively having AI search through a codebase for potential bugs.
 3. Having AI parse large data sets after capturing logs or other data, and either manually or automatically having it plot a chart to prove this use.
 4. Writing unit tests with conditions and test routines that are manually reviewed.
 
-I've seen quite a bit of time burned by developers attempting the guess and check method. Not only in industry, but especially during interviews when I give a "bug hunt" style question. This style of debugging even when done without AI tends to be a lot slower than the human version, as humans at least have the context and original author intend for the code being debugged.
+I've seen quite a bit of time burned by developers attempting the guess and check method. Not only in industry, but especially during interviews when I give a "bug hunt" style question. This style of debugging even when done with AI tends to be a lot slower than the human version, as humans at least have the context and original author intend for the code being debugged.
 
 With the volatility of debugging in mind, test and debug tends to be the hardest time to account for. This is reinforced with the idea that half the time in a software development cycle should go towards testing, and the initial execution given only half the time that the planning does:
 
