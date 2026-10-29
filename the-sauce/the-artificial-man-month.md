@@ -16,7 +16,7 @@ When the time came, we had around 30 students show up to our project's first tra
 
 ### Artificial Men
 
-Despite being a treasure trove of many interesting software engineering (and also a snapshot of a different era of a fledgling software development field), systems design, and project management ideas, the main concept the ["Mythical Man Month" by Frederick P. Brooks Jr](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf) is cited for is the idea software development shouldn't be treated like a production line, and instead a highly orchestrated network of workers that need to cross communicate. Its central thesis states that attempting to add more and more people slows down software development as communication overhead, training and getting new developers up to speed, and management overhead in trying to coordinate large groups slows short development in the short term.&#x20;
+Despite being a treasure trove of many interesting software engineering (and also a snapshot of a different era of a fledgling software development field), systems design, and project management ideas, the main concept the ["Mythical Man Month" by Frederick P. Brooks Jr](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf) is cited for is the idea software development shouldn't be treated like a production line, and instead a highly orchestrated network of workers that need to cross communicate. Its central thesis states that attempting to add more and more people slows down software development as communication overhead, training and getting new developers up to speed, and management overhead in trying to coordinate large groups slows down development in the short term.&#x20;
 
 More concisely put:
 
