@@ -111,7 +111,7 @@ So what is the mitigation? Sure it's easy to say that software architecture shou
 
 1. Try to design good software architecture from the start.
 2. If you can't, make architecture decisions that are "tree shakable" and can be backed out later.
-3. For 1 and 2, development under pressure makes large changes hard. Gradual replacement or slow integration of a larger change or architecture is preferrable in these cases to prevent regressions or breaking features.
+3. For 1 and 2, development under pressure makes large changes hard. Gradual replacement or slow integration of an architecture is preferrable in these cases to prevent regressions or breaking features.
 
 As with most effective AI usage, these tenets also apply to hand maintained code as well. No AI will understand potential customer needs and the scalability programs better than the developer unless they spend an enormous amount of time loading and maintaining context for AI models to ingest, burning money in the form of tokens and time in the form of having AI process and human hands maintain such context.
 
